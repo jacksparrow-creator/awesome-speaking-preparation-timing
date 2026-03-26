@@ -26,7 +26,7 @@ A curated list of tools, apps, and resources for timing, rehearsing, and perfect
 
 Tools to convert word count to speaking time and plan your speech structure.
 
-* [Speaking Time Calculator](https://speakingtimecalculator.com) - Multi-section speech management with personal WPM measurement. Features 8 speaking speed categories from slow (100 WPM) to fast auctioneer (250 WPM). Privacy-focused with no text storage. ⭐ **Editor's Choice**
+* [Speaking Time Calculator](https://speakingtimecalculator.com) - Multi-section speech management with personal WPM measurement. Features 8 speaking speed categories from slow (100 WPM) to fast auctioneer (250 WPM). Privacy-focused with no text storage. 
 
 ---
 
