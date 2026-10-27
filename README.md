@@ -64,6 +64,8 @@ Real-time feedback apps that analyze your pace, fillers, and clarity.
 * [Tempo](https://www.trytempo.ai) - Mac app for real-time pace monitoring, burst detection, and filler word tracking. Supports 30+ languages. **Freemium**
 * [AcePace](https://apps.apple.com/us/app/acepace/id6738673287) - iOS/Android app developed by George Mason University. Real-time WPM tracking with visual feedback. **Free**
 
+* [speaking.app](https://speaking.app/) - Web app for rehearsing speeches with AI feedback on structure, pacing, pauses, and filler words. **Freemium**
+
 ---
 
 ## Pace Training Tools
